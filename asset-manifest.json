@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Convin_Internship_Project/static/css/main.e6c13ad2.css",
+    "main.js": "/Convin_Internship_Project/static/js/main.a505db65.js",
+    "static/js/787.9718534a.chunk.js": "/Convin_Internship_Project/static/js/787.9718534a.chunk.js",
+    "index.html": "/Convin_Internship_Project/index.html",
+    "main.e6c13ad2.css.map": "/Convin_Internship_Project/static/css/main.e6c13ad2.css.map",
+    "main.a505db65.js.map": "/Convin_Internship_Project/static/js/main.a505db65.js.map",
+    "787.9718534a.chunk.js.map": "/Convin_Internship_Project/static/js/787.9718534a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a505db65.js"
+  ]
+}
